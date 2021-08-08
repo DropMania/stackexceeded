@@ -14,6 +14,11 @@ A Basic Stackoverflow clone with Svelte and Firbase
 -   [x] Display Questions at /{id} route
 -   [x] Implement Answers for Questions
 -   [ ] User can approve answers
+-   [ ] Display Tags
+-   [ ] Filter Questions by tags
+-   [ ] Voting for Questions and Answers
+-   [ ] Store views on Questions
+-   [ ] Display number of answers in the Question view
 -   [ ] styling...
 
 ---
