@@ -20,6 +20,7 @@ A Basic Stackoverflow clone with Svelte and Firbase
 -   [ ] Store views on Questions
 -   [ ] Display number of answers in the Question view
 -   [ ] styling...
+-   [ ] Markdown Renderer?
 
 ---
 
