@@ -13,6 +13,7 @@ A Basic Stackoverflow clone with Svelte and Firbase
 -   [x] Let User create own questions
 -   [x] Display Questions at /{id} route
 -   [x] Implement Answers for Questions
+-   [ ] Refactor user data loading
 -   [ ] User can approve answers
 -   [ ] Display Tags
 -   [ ] Filter Questions by tags
